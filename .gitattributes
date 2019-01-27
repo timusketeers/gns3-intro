@@ -1,0 +1,6 @@
+VMwareFusion8.zip filter=lfs diff=lfs merge=lfs -text
+GNS3.VM.VirtualBox.2.1.9.zip filter=lfs diff=lfs merge=lfs -text
+GNS3.VM.VMware.ESXI.2.1.9.zip filter=lfs diff=lfs merge=lfs -text
+GNS3.VM.VMware.Workstation.2.1.9.zip filter=lfs diff=lfs merge=lfs -text
+VM-12.1.0.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
